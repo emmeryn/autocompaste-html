@@ -3,14 +3,14 @@
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "Number of tabs":"1",
+            "Number of tabs":"4",
             "data_file": "data/texts.json",
             "stimuli": "What is acceptor atoms?" 
         },
         { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "Number of tabs":"1",
+            "Number of tabs":"3",
             "data_file": "data/texts.json",
             "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
         },
