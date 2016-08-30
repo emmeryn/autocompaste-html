@@ -103,7 +103,7 @@ Path: `questionnaire-post.html`.
 
 Similar to the Pre-Experiment Questionnaire, in this screen, you will collect participants responses. However, unlike the Pre-Experiment Questionnaire, over here, you want to collect more qualitative and quantitative feedback about the tested techniques. Some of the typical questions include, personal preferences, any difficulties participants experienced in the experiment, and areas of improvement.
 
-Please design a basic post-experimental questionnaire to help you to provide more in-depth information about the trade-offs between the tested techniques.
+Please design a basiic post-experimental questionnaire to help you to provide more in-depth information about the trade-offs between the tested techniques.
 
 Upon clicking the Submit button, form responses on the page is serialized and CSV file containing the responses will be generated and available for downloading into the user's computer. The CSV file will be named `acp-<pid>-post.csv`.
 
