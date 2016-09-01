@@ -84,6 +84,7 @@ var ACPToolKit = (function () {
 
             $('.js-expt-technique').text(options.technique);
             $('.js-expt-granularity').text(options.granularity);
+            $('.js-expt-tab').text(options.tab);
             $('.js-expt-stimuli').text(options.stimuli);
 
             // Clean up DOM
